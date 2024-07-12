@@ -1,0 +1,20 @@
+# 忽略所有 .log 文件
+*.log
+__pycache__
+# 忽略 临时 目录
+.nfs*
+.pkl
+# 忽略 nohup 目录及其所有内容
+nohup*
+
+# 忽略csv xlsx 
+*.xlsx
+*.csv
+
+
+# 忽略 out 目录及其所有内容
+output*
+
+# 忽略所有htmlcov
+*htmlcov
+.coverage
